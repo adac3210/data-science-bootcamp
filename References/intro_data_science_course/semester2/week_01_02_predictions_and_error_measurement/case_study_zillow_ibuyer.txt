@@ -1,0 +1,34 @@
+Introduction to Data Science
+Topic: The Uncertainty in Model Predictions
+
+Learning Outcomes: 
+Gain a respect for uncertainty: it can be hard to make accurate predictions
+
+-----------------------------------------------------------------------------
+
+In this assignment, you will read this article and respond to a series of questions.
+Why Zillow Couldn’t Make Algorithmic House Pricing Work
+
+https://www.wired.co.uk/article/zillow-ibuyer-real-estate
+
+This quote from the CEO sums things up:
+We've determined the unpredictability in forecasting home prices far exceeds what we anticipated and continuing to scale Zillow Offers, the company’s home buying program, would result in too much earnings and balance-sheet volatility,” Zillow cofounder and CEO Rich Barton
+
+-----------------------------------------------------------------------------
+
+Q1: Tech firms chose the Phoenix area for heavy buying. Explain why they did this.
+
+
+Q2: What was the event or events that caused the collapse of Zillow's strategy?
+
+
+Q3: Suppose Zillow updated their models with recent data. Do you feel confident that they could avoid a repeat collapse? Explain your answer.
+
+
+Q4: Given what happened to Zillow, is it fair to say that data science doesn't work? Explain your answer.
+
+
+Q5: Explain the difference between an on-market home and an off-market home.
+
+
+Q6: What could Zillow have done to lower their risk and reduce their losses?
